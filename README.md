@@ -16,4 +16,4 @@ This project implements a complete machine learning pipeline to classify book re
   - Evaluated using **ROC AUC** to measure discriminative ability beyond accuracy.
 - **Results & Insights:**  
   - Achieved high ROC AUC score, showing strong capability to distinguish between positive and negative reviews.  
-- **Tools & Libraries:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn.
+- **Tools & Libraries:** Python, Pandas, NumPy, Scikit-learn
